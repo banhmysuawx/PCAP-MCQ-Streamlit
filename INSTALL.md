@@ -1,17 +1,21 @@
-# Install requirements with a virtual environment 
+# Install requirements with a virtual environment
 
-## Crear el ambiente
-virtualenv venv
+## Create a virtual environment
 
-## Activar ambiente 
-source venv/bin/activate
+pỵthon3 -m venv .venv
 
-## Instalar librerías
+## Activate the virtual environment
+
+source .venv/bin/activate
+
+## Install requirements
+
 pip install -r requirements.txt
 
-## Desactivar Ambiente
+## Deactivate the virtual environment
+
 deactivate
 
-## Borrar el ambiente
-rm -rf venv/
+## Remove the virtual environment
 
+rm -rf .venv/

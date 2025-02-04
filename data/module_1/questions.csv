@@ -1,0 +1,3 @@
+type,question,options,correct_answer
+single,What is 2+2?,3;4;5,1
+multiple,Which are prime numbers?,2;3;4;5;7,0;1;3;4

@@ -10,12 +10,12 @@ Edit `/streamlit_app.py` and `/pages/*.py`to customize this app.
 
 To see an online demo, use this link:
 
-[https://sebastiandres.github.io/NAME_OF_APP](https://sebastiandres.github.io/NAME_OF_APP)
+[https://banhmysuawx.github.io/NAME_OF_APP](https://banhmysuawx.github.io/NAME_OF_APP)
 
 ## Local run
 
-To locally run the app, 
+To locally run the app,
 
 ```
-streamlit run streamlit_app.py
+streamlit run Main.py
 ```

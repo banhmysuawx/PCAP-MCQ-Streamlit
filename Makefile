@@ -7,7 +7,7 @@ activate:
 
 run:
 	source venv/bin/activate
-	streamlit run streamlit_app.py
+	streamlit run Main.py
 
 
 install:
